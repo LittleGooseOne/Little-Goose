@@ -6,5 +6,7 @@ Little Goose is a deflationary BEP20 token from the Binance Smart Chain, created
 Contract: 0xe8c4c563d8e1fbc73250d1881864ffa35a3bfc46
 
 Our website: https://littlegoose.one
+
 Our telegram: https://t.me/joinchat/xiFmqQCKe3c1Zjg0
+
 Our Twitter: https://twitter.com/LittleGooseOnee
